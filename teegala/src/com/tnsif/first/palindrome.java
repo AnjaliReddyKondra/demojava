@@ -1,6 +1,5 @@
 package com.tnsif.first;
-
-class PalindromeNum {
+class PalindromeNum{
 	  public static void main(String[] args) {
 	    int n = 121, rev = 0, temp = n;
 	    while(temp > 0){
